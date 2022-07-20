@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358172667152",
+    "project_id": "hacakthon-rafay-123",
+    "storage_bucket": "hacakthon-rafay-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358172667152:android:d7184a729e400ad3a88995",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358172667152-nr4vjcc0gc1s9lfmgdk3mejgmdtvigje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQffP9jq3ywXlxMz4VgTtweHlpOVJdwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358172667152-nr4vjcc0gc1s9lfmgdk3mejgmdtvigje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
